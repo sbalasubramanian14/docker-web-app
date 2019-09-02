@@ -1,0 +1,22 @@
+{
+  "name": "docker-web-app",
+  "version": "1.0.0",
+  "description": "docker web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "docker",
+    "web",
+    "app",
+    "build",
+    "image"
+  ],
+  "author": "Balasubramanian <sbalasubramanian96@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
